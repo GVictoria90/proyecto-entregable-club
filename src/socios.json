@@ -1,0 +1,74 @@
+[
+  {
+    "_nombre": "Joaquin",
+    "_apellido": "Mancini",
+    "_fechaNacimiento": "1992-12-05",
+    "_documento": 36881929,
+    "_telefono": 2281553969,
+    "_miembroDesde": "2023-03-29",
+    "_deporte": "futbol"
+  },
+  {
+    "_nombre": "Victoria",
+    "_apellido": "Garcia",
+    "_fechaNacimiento": "1990-05-07",
+    "_documento": 35123123,
+    "_telefono": 2281455667,
+    "_miembroDesde": "2023-03-29",
+    "_deporte": "zumba"
+  },
+  {
+    "_nombre": "Juan",
+    "_apellido": "Martinez",
+    "_fechaNacimiento": "1990-02-05",
+    "_documento": 35534089,
+    "_telefono": 12312411,
+    "_miembroDesde": "2020-09-08",
+    "_deporte": "basket"
+  },
+  {
+    "_nombre": "Esteban",
+    "_apellido": "Suarez",
+    "_fechaNacimiento": "1995-06-25",
+    "_documento": 38544882,
+    "_telefono": 45376423,
+    "_miembroDesde": "2021-11-01",
+    "_deporte": "voley"
+  },
+  {
+    "_nombre": "Juan",
+    "_apellido": "Martinez",
+    "_fechaNacimiento": "1990-02-05",
+    "_documento": 35534089,
+    "_telefono": 12312423,
+    "_miembroDesde": "2020-09-01",
+    "_deporte": "gym"
+  },
+  {
+    "_nombre": "Lautaro",
+    "_apellido": "figueroa",
+    "_fechaNacimiento": "1990-03-05",
+    "_documento": 35536790,
+    "_telefono": 12312423,
+    "_miembroDesde": "2020-09-01",
+    "_deporte": "natacion"
+  },
+  {
+    "_nombre": "Juan",
+    "_apellido": "Martinez",
+    "_fechaNacimiento": "1990-02-05",
+    "_documento": 35534089,
+    "_telefono": 12312423,
+    "_miembroDesde": "2020-09-01",
+    "_deporte": "basket"
+  },
+  {
+    "_nombre": "Virginia",
+    "_apellido": "Coria",
+    "_fechaNacimiento": "1989-06-22",
+    "_documento": 34189504,
+    "_telefono": 2281669087,
+    "_miembroDesde": "2012-12-10",
+    "_deporte": "zumba"
+  }
+]
